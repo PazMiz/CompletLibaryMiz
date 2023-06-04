@@ -17,7 +17,7 @@
  # When you add new loan you wil get unknown customer name unless you enter this customer name in the customer list.
 
 
-1.git clone https://github.com/PazMiz/Pazlibarian.git cd.\PazPj_Pj_Libary
+1.git clone https://github.com/PazMiz/CompletLibaryMiz.git cd.\PazPj_Pj_Libary
 2. Use virtualenv env .3\env\Scripts\activate
 4. pip install -r requirements.txt
 5. Python app.run
